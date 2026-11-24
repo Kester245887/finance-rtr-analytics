@@ -1,0 +1,27 @@
+transaction_id,description,gl_amount,bank_transaction_id,bank_amount,_merge,reconciliation_status,duplicate_flag
+BANKFEE001,Record bank service fee,-45.0,BANK00027,-45.0,both,Matched,False
+TXN00013,Customer payment - Evergreen Retail Group,6949.91,BANK00001,6949.91,both,Matched,False
+TXN00014,Customer payment - FutureWorks Ltd.,9276.31,BANK00002,9276.31,both,Matched,False
+TXN00015,Customer payment - Alpine Consulting,11780.6,,,left_only,Missing from Bank Statement,False
+TXN00016,Customer payment - Evergreen Retail Group,10074.58,BANK00004,10074.58,both,Matched,False
+TXN00017,Customer payment - Alpine Consulting,7053.47,BANK00005,7053.47,both,Matched,False
+TXN00018,Customer payment - Central European Logistics,11340.88,BANK00006,11340.88,both,Matched,True
+TXN00019,Customer payment - Delta Business Solutions,10404.85,BANK00007,10404.85,both,Matched,False
+TXN00020,Customer payment - Central European Logistics,5045.15,BANK00008,5045.15,both,Matched,False
+TXN00033,Supplier payment - OfficePro Supplies,-4596.19,BANK00009,-4596.19,both,Matched,False
+TXN00034,Supplier payment - CloudTech Services,-2292.04,BANK00010,-2292.04,both,Matched,False
+TXN00035,Supplier payment - CloudTech Services,-1542.09,BANK00011,-1542.09,both,Matched,False
+TXN00036,Supplier payment - City Properties,-3116.38,BANK00012,-3116.38,both,Matched,False
+TXN00037,Supplier payment - CloudTech Services,-2904.34,BANK00013,-2904.34,both,Matched,False
+TXN00038,Supplier payment - OfficePro Supplies,-4351.46,BANK00014,-4351.46,both,Matched,False
+TXN00039,Supplier payment - CloudTech Services,-4926.2,BANK00015,-4926.2,both,Matched,False
+TXN00040,Supplier payment - Travel Solutions,-2085.8,BANK00016,-2085.8,both,Matched,False
+TXN00041,Monthly salaries,-21391.42,BANK00017,-21391.42,both,Matched,False
+TXN00042,Office rent,-3952.08,BANK00018,-3952.08,both,Matched,False
+TXN00043,Utilities,-932.15,BANK00019,-932.15,both,Matched,False
+TXN00044,Software subscriptions,-803.95,BANK00020,-803.95,both,Matched,False
+TXN00045,Business travel,-733.9,BANK00021,-733.9,both,Matched,False
+TXN00046,Bank charges,-142.92,BANK00022,-142.92,both,Matched,False
+TXN00047,Purchase of office equipment,-8500.0,BANK00023,-8500.0,both,Matched,False
+TXN00049,Bank loan received,20000.0,BANK00024,20000.0,both,Matched,False
+TXN00050,Interest income received,150.0,BANK00025,150.0,both,Matched,False

@@ -1,0 +1,13 @@
+invoice_id,transaction_id,customer,invoice_date,due_date,invoice_amount,status
+AR0001,TXN00001,Evergreen Retail Group,2026-11-03,2026-12-03,6949.91,Paid
+AR0002,TXN00002,FutureWorks Ltd.,2026-11-11,2026-12-11,9276.31,Paid
+AR0003,TXN00003,Alpine Consulting,2026-11-05,2026-12-05,11780.6,Paid
+AR0004,TXN00004,Evergreen Retail Group,2026-11-18,2026-12-18,10074.58,Paid
+AR0005,TXN00005,Alpine Consulting,2026-11-13,2026-12-13,7053.47,Paid
+AR0006,TXN00006,Central European Logistics,2026-11-13,2026-12-13,11340.88,Paid
+AR0007,TXN00007,Delta Business Solutions,2026-11-19,2026-12-19,10404.85,Paid
+AR0008,TXN00008,Central European Logistics,2026-11-14,2026-12-14,5045.15,Paid
+AR0009,TXN00009,Delta Business Solutions,2026-11-03,2026-12-03,3574.36,Outstanding
+AR0010,TXN00010,Evergreen Retail Group,2026-11-21,2026-12-21,8684.98,Outstanding
+AR0011,TXN00011,Evergreen Retail Group,2026-11-04,2026-12-04,6190.73,Outstanding
+AR0012,TXN00012,FutureWorks Ltd.,2026-11-02,2026-12-02,11038.09,Outstanding

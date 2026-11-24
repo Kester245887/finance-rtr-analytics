@@ -1,0 +1,9 @@
+Control,Result,Status
+Journal entries reviewed,52,Pass
+Unbalanced journal entries,0,Pass
+Unexpected journal line counts,0,Pass
+Duplicate journal lines,0,Pass
+Invalid account codes,0,Pass
+Transactions outside reporting period,0,Pass
+Open bank reconciliation exceptions,2,Open
+High-severity open exceptions,2,Open

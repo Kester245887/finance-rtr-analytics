@@ -1,0 +1,9 @@
+Quality Check,Difference,Status
+P&L revenue agrees with financial summary,0.0,PASS
+P&L expenses agree with financial summary,0.0,PASS
+P&L net profit agrees with financial summary,7.275957614183426e-12,PASS
+Balance Sheet accounting equation,0.0,PASS
+Budget actual revenue agrees with summary,0.0,PASS
+Budget actual expenses agree with summary,0.0,PASS
+Open exceptions agree with exception register,0.0,PASS
+Bank reconciliation exceptions count,0.0,PASS

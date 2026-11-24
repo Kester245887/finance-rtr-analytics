@@ -1,0 +1,9 @@
+account_code,total_debit,total_credit,account_name,account_type,normal_balance,closing_balance,presentation_balance,statement_section
+1000,142075.75,62315.92,Bank Account,Asset,Debit,79759.83,79759.83,Assets
+1100,101413.91,71925.75,Accounts Receivable,Asset,Debit,29488.16,29488.16,Assets
+1500,8500.0,0.0,Equipment,Asset,Debit,8500.0,8500.0,Assets
+1590,0.0,250.0,Accumulated Depreciation,Asset,Credit,250.0,-250.0,Assets
+2000,25814.5,40664.17,Accounts Payable,Liability,Credit,14849.67,14849.67,Liabilities
+2200,0.0,20000.0,Bank Loan,Liability,Credit,20000.0,20000.0,Liabilities
+3000,0.0,50000.0,Share Capital,Equity,Credit,50000.0,50000.0,Equity
+CURRENT_PERIOD_PROFIT,0.0,0.0,Current Period Profit,Equity,Credit,32648.320000000007,32648.320000000007,Equity

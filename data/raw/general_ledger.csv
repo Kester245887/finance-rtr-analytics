@@ -1,0 +1,105 @@
+transaction_id,date,description,department,account_code,debit,credit
+TXN00001,2026-11-03 00:00:00,Customer invoice - Evergreen Retail Group,Sales,1100,6949.91,0.0
+TXN00001,2026-11-03 00:00:00,Customer invoice - Evergreen Retail Group,Sales,4000,0.0,6949.91
+TXN00002,2026-11-11 00:00:00,Customer invoice - FutureWorks Ltd.,Sales,1100,9276.31,0.0
+TXN00002,2026-11-11 00:00:00,Customer invoice - FutureWorks Ltd.,Sales,4000,0.0,9276.31
+TXN00003,2026-11-05 00:00:00,Customer invoice - Alpine Consulting,Sales,1100,11780.6,0.0
+TXN00003,2026-11-05 00:00:00,Customer invoice - Alpine Consulting,Sales,4000,0.0,11780.6
+TXN00004,2026-11-18 00:00:00,Customer invoice - Evergreen Retail Group,Sales,1100,10074.58,0.0
+TXN00004,2026-11-18 00:00:00,Customer invoice - Evergreen Retail Group,Sales,4000,0.0,10074.58
+TXN00005,2026-11-13 00:00:00,Customer invoice - Alpine Consulting,Sales,1100,7053.47,0.0
+TXN00005,2026-11-13 00:00:00,Customer invoice - Alpine Consulting,Sales,4000,0.0,7053.47
+TXN00006,2026-11-13 00:00:00,Customer invoice - Central European Logistics,Sales,1100,11340.88,0.0
+TXN00006,2026-11-13 00:00:00,Customer invoice - Central European Logistics,Sales,4000,0.0,11340.88
+TXN00007,2026-11-19 00:00:00,Customer invoice - Delta Business Solutions,Sales,1100,10404.85,0.0
+TXN00007,2026-11-19 00:00:00,Customer invoice - Delta Business Solutions,Sales,4000,0.0,10404.85
+TXN00008,2026-11-14 00:00:00,Customer invoice - Central European Logistics,Sales,1100,5045.15,0.0
+TXN00008,2026-11-14 00:00:00,Customer invoice - Central European Logistics,Sales,4000,0.0,5045.15
+TXN00009,2026-11-03 00:00:00,Customer invoice - Delta Business Solutions,Sales,1100,3574.36,0.0
+TXN00009,2026-11-03 00:00:00,Customer invoice - Delta Business Solutions,Sales,4000,0.0,3574.36
+TXN00010,2026-11-21 00:00:00,Customer invoice - Evergreen Retail Group,Sales,1100,8684.98,0.0
+TXN00010,2026-11-21 00:00:00,Customer invoice - Evergreen Retail Group,Sales,4000,0.0,8684.98
+TXN00011,2026-11-04 00:00:00,Customer invoice - Evergreen Retail Group,Sales,1100,6190.73,0.0
+TXN00011,2026-11-04 00:00:00,Customer invoice - Evergreen Retail Group,Sales,4000,0.0,6190.73
+TXN00012,2026-11-02 00:00:00,Customer invoice - FutureWorks Ltd.,Sales,1100,11038.09,0.0
+TXN00012,2026-11-02 00:00:00,Customer invoice - FutureWorks Ltd.,Sales,4000,0.0,11038.09
+TXN00013,2026-11-08 00:00:00,Customer payment - Evergreen Retail Group,Sales,1000,6949.91,0.0
+TXN00013,2026-11-08 00:00:00,Customer payment - Evergreen Retail Group,Sales,1100,0.0,6949.91
+TXN00014,2026-11-17 00:00:00,Customer payment - FutureWorks Ltd.,Sales,1000,9276.31,0.0
+TXN00014,2026-11-17 00:00:00,Customer payment - FutureWorks Ltd.,Sales,1100,0.0,9276.31
+TXN00015,2026-11-11 00:00:00,Customer payment - Alpine Consulting,Sales,1000,11780.6,0.0
+TXN00015,2026-11-11 00:00:00,Customer payment - Alpine Consulting,Sales,1100,0.0,11780.6
+TXN00016,2026-11-20 00:00:00,Customer payment - Evergreen Retail Group,Sales,1000,10074.58,0.0
+TXN00016,2026-11-20 00:00:00,Customer payment - Evergreen Retail Group,Sales,1100,0.0,10074.58
+TXN00017,2026-11-16 00:00:00,Customer payment - Alpine Consulting,Sales,1000,7053.47,0.0
+TXN00017,2026-11-16 00:00:00,Customer payment - Alpine Consulting,Sales,1100,0.0,7053.47
+TXN00018,2026-11-17 00:00:00,Customer payment - Central European Logistics,Sales,1000,11340.88,0.0
+TXN00018,2026-11-17 00:00:00,Customer payment - Central European Logistics,Sales,1100,0.0,11340.88
+TXN00019,2026-11-23 00:00:00,Customer payment - Delta Business Solutions,Sales,1000,10404.85,0.0
+TXN00019,2026-11-23 00:00:00,Customer payment - Delta Business Solutions,Sales,1100,0.0,10404.85
+TXN00020,2026-11-15 00:00:00,Customer payment - Central European Logistics,Sales,1000,5045.15,0.0
+TXN00020,2026-11-15 00:00:00,Customer payment - Central European Logistics,Sales,1100,0.0,5045.15
+TXN00021,2026-11-14 00:00:00,Supplier invoice - OfficePro Supplies,Operations,5300,4596.19,0.0
+TXN00021,2026-11-14 00:00:00,Supplier invoice - OfficePro Supplies,Operations,2000,0.0,4596.19
+TXN00022,2026-11-17 00:00:00,Supplier invoice - CloudTech Services,Operations,5400,2292.04,0.0
+TXN00022,2026-11-17 00:00:00,Supplier invoice - CloudTech Services,Operations,2000,0.0,2292.04
+TXN00023,2026-11-22 00:00:00,Supplier invoice - CloudTech Services,Operations,5000,1542.09,0.0
+TXN00023,2026-11-22 00:00:00,Supplier invoice - CloudTech Services,Operations,2000,0.0,1542.09
+TXN00024,2026-11-12 00:00:00,Supplier invoice - City Properties,Operations,5000,3116.38,0.0
+TXN00024,2026-11-12 00:00:00,Supplier invoice - City Properties,Operations,2000,0.0,3116.38
+TXN00025,2026-11-08 00:00:00,Supplier invoice - CloudTech Services,Operations,5200,2904.34,0.0
+TXN00025,2026-11-08 00:00:00,Supplier invoice - CloudTech Services,Operations,2000,0.0,2904.34
+TXN00026,2026-11-17 00:00:00,Supplier invoice - OfficePro Supplies,Operations,5400,4351.46,0.0
+TXN00026,2026-11-17 00:00:00,Supplier invoice - OfficePro Supplies,Operations,2000,0.0,4351.46
+TXN00027,2026-11-03 00:00:00,Supplier invoice - CloudTech Services,Operations,5300,4926.2,0.0
+TXN00027,2026-11-03 00:00:00,Supplier invoice - CloudTech Services,Operations,2000,0.0,4926.2
+TXN00028,2026-11-20 00:00:00,Supplier invoice - Travel Solutions,Operations,5100,2085.8,0.0
+TXN00028,2026-11-20 00:00:00,Supplier invoice - Travel Solutions,Operations,2000,0.0,2085.8
+TXN00029,2026-11-06 00:00:00,Supplier invoice - Utility Partners,Operations,5300,1599.5,0.0
+TXN00029,2026-11-06 00:00:00,Supplier invoice - Utility Partners,Operations,2000,0.0,1599.5
+TXN00030,2026-11-04 00:00:00,Supplier invoice - Travel Solutions,Operations,5000,4828.08,0.0
+TXN00030,2026-11-04 00:00:00,Supplier invoice - Travel Solutions,Operations,2000,0.0,4828.08
+TXN00031,2026-11-19 00:00:00,Supplier invoice - Utility Partners,Operations,5200,4794.01,0.0
+TXN00031,2026-11-19 00:00:00,Supplier invoice - Utility Partners,Operations,2000,0.0,4794.01
+TXN00032,2026-11-17 00:00:00,Supplier invoice - City Properties,Operations,5200,3628.08,0.0
+TXN00032,2026-11-17 00:00:00,Supplier invoice - City Properties,Operations,2000,0.0,3628.08
+TXN00033,2026-11-15 00:00:00,Supplier payment - OfficePro Supplies,Operations,2000,4596.19,0.0
+TXN00033,2026-11-15 00:00:00,Supplier payment - OfficePro Supplies,Operations,1000,0.0,4596.19
+TXN00034,2026-11-18 00:00:00,Supplier payment - CloudTech Services,Operations,2000,2292.04,0.0
+TXN00034,2026-11-18 00:00:00,Supplier payment - CloudTech Services,Operations,1000,0.0,2292.04
+TXN00035,2026-11-24 00:00:00,Supplier payment - CloudTech Services,Operations,2000,1542.09,0.0
+TXN00035,2026-11-24 00:00:00,Supplier payment - CloudTech Services,Operations,1000,0.0,1542.09
+TXN00036,2026-11-13 00:00:00,Supplier payment - City Properties,Operations,2000,3116.38,0.0
+TXN00036,2026-11-13 00:00:00,Supplier payment - City Properties,Operations,1000,0.0,3116.38
+TXN00037,2026-11-12 00:00:00,Supplier payment - CloudTech Services,Operations,2000,2904.34,0.0
+TXN00037,2026-11-12 00:00:00,Supplier payment - CloudTech Services,Operations,1000,0.0,2904.34
+TXN00038,2026-11-22 00:00:00,Supplier payment - OfficePro Supplies,Operations,2000,4351.46,0.0
+TXN00038,2026-11-22 00:00:00,Supplier payment - OfficePro Supplies,Operations,1000,0.0,4351.46
+TXN00039,2026-11-08 00:00:00,Supplier payment - CloudTech Services,Operations,2000,4926.2,0.0
+TXN00039,2026-11-08 00:00:00,Supplier payment - CloudTech Services,Operations,1000,0.0,4926.2
+TXN00040,2026-11-24 00:00:00,Supplier payment - Travel Solutions,Operations,2000,2085.8,0.0
+TXN00040,2026-11-24 00:00:00,Supplier payment - Travel Solutions,Operations,1000,0.0,2085.8
+TXN00041,2026-11-03 00:00:00,Monthly salaries,Finance,5000,21391.42,0.0
+TXN00041,2026-11-03 00:00:00,Monthly salaries,Finance,1000,0.0,21391.42
+TXN00042,2026-11-22 00:00:00,Office rent,Finance,5100,3952.08,0.0
+TXN00042,2026-11-22 00:00:00,Office rent,Finance,1000,0.0,3952.08
+TXN00043,2026-11-03 00:00:00,Utilities,Finance,5200,932.15,0.0
+TXN00043,2026-11-03 00:00:00,Utilities,Finance,1000,0.0,932.15
+TXN00044,2026-11-16 00:00:00,Software subscriptions,Finance,5300,803.95,0.0
+TXN00044,2026-11-16 00:00:00,Software subscriptions,Finance,1000,0.0,803.95
+TXN00045,2026-11-10 00:00:00,Business travel,Finance,5400,733.9,0.0
+TXN00045,2026-11-10 00:00:00,Business travel,Finance,1000,0.0,733.9
+TXN00046,2026-11-13 00:00:00,Bank charges,Finance,5600,142.92,0.0
+TXN00046,2026-11-13 00:00:00,Bank charges,Finance,1000,0.0,142.92
+TXN00047,2026-11-12 00:00:00,Purchase of office equipment,Operations,1500,8500.0,0.0
+TXN00047,2026-11-12 00:00:00,Purchase of office equipment,Operations,1000,0.0,8500.0
+TXN00048,2026-11-30 00:00:00,Monthly depreciation,Finance,5500,250.0,0.0
+TXN00048,2026-11-30 00:00:00,Monthly depreciation,Finance,1590,0.0,250.0
+TXN00049,2026-11-05 00:00:00,Bank loan received,Finance,1000,20000.0,0.0
+TXN00049,2026-11-05 00:00:00,Bank loan received,Finance,2200,0.0,20000.0
+TXN00050,2026-11-25 00:00:00,Interest income received,Finance,1000,150.0,0.0
+TXN00050,2026-11-25 00:00:00,Interest income received,Finance,4100,0.0,150.0
+BANKFEE001,2026-11-28,Record bank service fee,,5600,45.0,0.0
+BANKFEE001,2026-11-28,Record bank service fee,,1000,0.0,45.0
+OPENING001,2026-11-01,Opening bank balance,,1000,50000.0,0.0
+OPENING001,2026-11-01,Opening share capital,,3000,0.0,50000.0

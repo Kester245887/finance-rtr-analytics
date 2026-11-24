@@ -1,0 +1,3 @@
+exception_id,transaction_id,exception_type,amount,severity,status,recommended_action
+EXC001,TXN00015,Missing from Bank Statement,11780.6,High,Open,Investigate bank records and confirm whether the transaction cleared.
+EXC002,TXN00018,Duplicate Bank Transaction,11340.88,High,Open,Verify the duplicate entry and confirm whether it is a bank statement duplication.

@@ -1,0 +1,4 @@
+audit_id,transaction_id,finding,initial_amount,action_taken,current_status,resolution_amount
+AUD001,TXN00015,Missing from Bank Statement,11780.6,Flagged for investigation,Open,0.0
+AUD002,TXN00018,Duplicate Bank Transaction,11340.88,Flagged for duplicate verification,Open,0.0
+AUD003,BANKFEE001,Bank Fee Missing from General Ledger,45.0,Debit Bank Charges and credit Bank Account,Resolved,45.0

@@ -1,0 +1,27 @@
+bank_transaction_id,transaction_id,date,description,credit,debit,signed_amount
+BANK00001,TXN00013,2026-11-08,Customer payment - Evergreen Retail Group,6949.91,0.0,6949.91
+BANK00002,TXN00014,2026-11-17,Customer payment - FutureWorks Ltd.,9276.31,0.0,9276.31
+BANK00004,TXN00016,2026-11-20,Customer payment - Evergreen Retail Group,10074.58,0.0,10074.58
+BANK00005,TXN00017,2026-11-16,Customer payment - Alpine Consulting,7053.47,0.0,7053.47
+BANK00006,TXN00018,2026-11-17,Customer payment - Central European Logistics,11340.88,0.0,11340.88
+BANK00007,TXN00019,2026-11-23,Customer payment - Delta Business Solutions,10404.85,0.0,10404.85
+BANK00008,TXN00020,2026-11-15,Customer payment - Central European Logistics,5045.15,0.0,5045.15
+BANK00009,TXN00033,2026-11-15,Supplier payment - OfficePro Supplies,0.0,4596.19,-4596.19
+BANK00010,TXN00034,2026-11-18,Supplier payment - CloudTech Services,0.0,2292.04,-2292.04
+BANK00011,TXN00035,2026-11-24,Supplier payment - CloudTech Services,0.0,1542.09,-1542.09
+BANK00012,TXN00036,2026-11-13,Supplier payment - City Properties,0.0,3116.38,-3116.38
+BANK00013,TXN00037,2026-11-12,Supplier payment - CloudTech Services,0.0,2904.34,-2904.34
+BANK00014,TXN00038,2026-11-22,Supplier payment - OfficePro Supplies,0.0,4351.46,-4351.46
+BANK00015,TXN00039,2026-11-08,Supplier payment - CloudTech Services,0.0,4926.2,-4926.2
+BANK00016,TXN00040,2026-11-24,Supplier payment - Travel Solutions,0.0,2085.8,-2085.8
+BANK00017,TXN00041,2026-11-03,Monthly salaries,0.0,21391.42,-21391.42
+BANK00018,TXN00042,2026-11-22,Office rent,0.0,3952.08,-3952.08
+BANK00019,TXN00043,2026-11-03,Utilities,0.0,932.15,-932.15
+BANK00020,TXN00044,2026-11-16,Software subscriptions,0.0,803.95,-803.95
+BANK00021,TXN00045,2026-11-10,Business travel,0.0,733.9,-733.9
+BANK00022,TXN00046,2026-11-13,Bank charges,0.0,142.92,-142.92
+BANK00023,TXN00047,2026-11-12,Purchase of office equipment,0.0,8500.0,-8500.0
+BANK00024,TXN00049,2026-11-05,Bank loan received,20000.0,0.0,20000.0
+BANK00025,TXN00050,2026-11-25,Interest income received,150.0,0.0,150.0
+BANK00026,TXN00018,2026-11-17,Customer payment - Central European Logistics - DUPLICATE,11340.88,0.0,11340.88
+BANK00027,BANKFEE001,2026-11-28,Unrecorded bank service fee,0.0,45.0,-45.0

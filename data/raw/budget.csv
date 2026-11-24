@@ -1,0 +1,11 @@
+category,account_name,account_code,budget_amount,period
+Revenue,Service Revenue,4000,105000,2026-11
+Revenue,Interest Income,4100,200,2026-11
+Expense,Salaries Expense,5000,22000,2026-11
+Expense,Rent Expense,5100,4000,2026-11
+Expense,Utilities Expense,5200,1000,2026-11
+Expense,Software Expense,5300,1200,2026-11
+Expense,Travel Expense,5400,1500,2026-11
+Expense,Depreciation Expense,5500,250,2026-11
+Expense,Bank Charges,5600,200,2026-11
+Expense,Interest Expense,5700,500,2026-11

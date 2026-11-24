@@ -1,0 +1,11 @@
+period,category,account_code,account_name,budget_amount,actual_amount,variance,variance_percentage,performance
+2026-11,Revenue,4000,Service Revenue,105000,101413.91,-3586.09,-3.42,Unfavourable
+2026-11,Revenue,4100,Interest Income,200,150.0,-50.0,-25.0,Unfavourable
+2026-11,Expense,5000,Salaries Expense,22000,30877.97,-8877.97,-40.35,Unfavourable
+2026-11,Expense,5100,Rent Expense,4000,6037.88,-2037.88,-50.95,Unfavourable
+2026-11,Expense,5200,Utilities Expense,1000,12258.58,-11258.58,-1125.86,Unfavourable
+2026-11,Expense,5300,Software Expense,1200,11925.84,-10725.84,-893.82,Unfavourable
+2026-11,Expense,5400,Travel Expense,1500,7377.4,-5877.4,-391.83,Unfavourable
+2026-11,Expense,5500,Depreciation Expense,250,250.0,0.0,0.0,On Budget
+2026-11,Expense,5600,Bank Charges,200,187.92,12.08,6.04,Favourable
+2026-11,Expense,5700,Interest Expense,500,0.0,500.0,100.0,Favourable

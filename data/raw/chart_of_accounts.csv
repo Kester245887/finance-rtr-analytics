@@ -1,0 +1,21 @@
+account_code,account_name,account_type,normal_balance,financial_statement
+1000,Bank Account,Asset,Debit,Balance Sheet
+1100,Accounts Receivable,Asset,Debit,Balance Sheet
+1200,Prepaid Expenses,Asset,Debit,Balance Sheet
+1500,Equipment,Asset,Debit,Balance Sheet
+1590,Accumulated Depreciation,Asset,Credit,Balance Sheet
+2000,Accounts Payable,Liability,Credit,Balance Sheet
+2100,Accrued Expenses,Liability,Credit,Balance Sheet
+2200,Bank Loan,Liability,Credit,Balance Sheet
+3000,Share Capital,Equity,Credit,Balance Sheet
+3100,Retained Earnings,Equity,Credit,Balance Sheet
+4000,Service Revenue,Revenue,Credit,Profit and Loss
+4100,Interest Income,Revenue,Credit,Profit and Loss
+5000,Salaries Expense,Expense,Debit,Profit and Loss
+5100,Rent Expense,Expense,Debit,Profit and Loss
+5200,Utilities Expense,Expense,Debit,Profit and Loss
+5300,Software Expense,Expense,Debit,Profit and Loss
+5400,Travel Expense,Expense,Debit,Profit and Loss
+5500,Depreciation Expense,Expense,Debit,Profit and Loss
+5600,Bank Charges,Expense,Debit,Profit and Loss
+5700,Interest Expense,Expense,Debit,Profit and Loss

@@ -1,0 +1,10 @@
+account_code,account_name,account_type,actual_amount
+5000,Salaries Expense,Expense,30877.97
+5100,Rent Expense,Expense,6037.88
+5200,Utilities Expense,Expense,12258.58
+5300,Software Expense,Expense,11925.84
+5400,Travel Expense,Expense,7377.4
+5500,Depreciation Expense,Expense,250.0
+5600,Bank Charges,Expense,187.92
+4000,Service Revenue,Revenue,101413.91
+4100,Interest Income,Revenue,150.0
